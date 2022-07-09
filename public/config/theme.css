@@ -3,8 +3,8 @@
   --primary-text: white;
   --secondary: black;
   --secondary-text: #ffffff;
-  --accent: #505050;
-  --accent-text: #ffffff;
+  --accent: #FAFF00;
+  --accent-text: black;
 }
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
