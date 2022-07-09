@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x3AcC4ecAE1E696027C8cac2958779949347dc5fc",
-  "SCAN_LINK": "https://ftmscan.com/address/0x3AcC4ecAE1E696027C8cac2958779949347dc5fc",
+  "CONTRACT_ADDRESS": "0x8B2787e027F734f72d23E3A25F6C416059F9A2e8",
+  "SCAN_LINK": "",
   "NETWORK": {
-    "NAME": "Fantom",
+    "NAME": "Fantom Testnet",
     "SYMBOL": "FTM",
-    "ID": 250
+    "ID": 4002
   },
   "NFT_NAME": "Bit Eggs",
   "SYMBOL": "Bit Egg",
