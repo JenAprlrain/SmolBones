@@ -10,7 +10,7 @@
   "SYMBOL": "Bit Egg",
   "MAX_SUPPLY": 200,
   "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "NFTKey",
   "MARKETPLACE_LINK": "https://nftkey.app",
